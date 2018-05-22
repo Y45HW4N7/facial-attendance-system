@@ -1,0 +1,1 @@
+the images taken during enrollment of the student will be stored in this directory.
